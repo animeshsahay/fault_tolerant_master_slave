@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FormatTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-12-09T21:32:02" hostname="1x-nat-vl931-172-30-152-207.wireless.umass.edu" time="60.985">
+  <properties/>
+  <testcase name="testFormat[0]" classname="FormatTest" time="10.129"/>
+  <testcase name="testFormat[1]" classname="FormatTest" time="10.153"/>
+  <testcase name="testFormat[2]" classname="FormatTest" time="10.243"/>
+  <testcase name="testFormat[3]" classname="FormatTest" time="10.206"/>
+  <testcase name="testFormat[4]" classname="FormatTest" time="10.13"/>
+  <testcase name="testFormat[5]" classname="FormatTest" time="10.123"/>
+  <system-out><![CDATA[Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting worker using 5000
+Start distributing work
+Starting heartbeat 
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/simple.txt
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/simple.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting worker using 5000
+Starting heartbeat 
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/random.txt
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/random.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting worker using 5000
+Starting heartbeat 
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/king-james-version-bible.txt
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/king-james-version-bible.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting worker using 5000
+Start distributing work
+Starting heartbeat 
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/war-and-peace.txt
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/war-and-peace.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting heartbeat 
+Starting worker using 5000
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/pride_and_prejudice.txt
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/pride_and_prejudice.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting heartbeat 
+Starting worker using 5000
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/christmas_carol.txt
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/christmas_carol.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

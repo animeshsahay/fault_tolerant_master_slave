@@ -1,0 +1,90 @@
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting worker using 5000
+Start distributing work
+Starting heartbeat 
+ŒSending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/simple.txt
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Exiting worker heartbeat 5001
+“Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/simple.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting worker using 5000
+Starting heartbeat 
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+ŒSending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/random.txt
+Exiting worker heartbeat 5001
+“Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/random.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting worker using 5000
+Starting heartbeat 
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+žSending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/king-james-version-bible.txt
+Exiting worker heartbeat 5001
+¥Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/king-james-version-bible.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting worker using 5000
+Start distributing work
+Starting heartbeat 
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+“Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/war-and-peace.txt
+Exiting worker heartbeat 5001
+šWorker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/war-and-peace.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting heartbeat 
+Starting worker using 5000
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+™Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/pride_and_prejudice.txt
+Exiting worker heartbeat 5001
+ Worker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/pride_and_prejudice.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+5New Worker Created with port 5000 and heartbeat 5001
+%Starting worker heartbeat using 5001
+Starting heartbeat 
+Starting worker using 5000
+Start distributing work
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+•Sending message: /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/build/resources/test/christmas_carol.txt
+Exiting worker heartbeat 5001
+œWorker finishes writing to file /Users/shravyakadur/Documents/UMass/532/Project2/Fault_Tolerance_Distributed_Master_Worker/output_files/christmas_carol.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
